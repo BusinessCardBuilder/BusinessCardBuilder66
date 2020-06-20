@@ -10,7 +10,7 @@
     {
       "title": "About",
       "slug": "about",
-      "content": { "type": "plainContent", "content": "Even more lorem ipsum!" }
+      "content": { "type": "plainContent", "content": "Even <b>more</b> lorem ipsum!" }
     },
     {
       "title": "LinkedIn",
